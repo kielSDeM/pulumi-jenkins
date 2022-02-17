@@ -1,0 +1,3 @@
+name: jenkins
+runtime: nodejs
+description: Used to create a jenkins deployment
