@@ -2,7 +2,7 @@
 
 This deploys jenkins from a mini cluster with typescript.
 
-https://medium.com/p/46dae6f8b12a/edit
+https://awstip.com/use-pulumi-to-deploy-a-jenkins-46dae6f8b12a
 
 To access jenkins you need the pod name, cluster ip, and password:   
 ```
