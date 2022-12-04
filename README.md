@@ -16,4 +16,4 @@ kubectl get pods -n jenkins
  ```                                    
 # The password can be found at the end of the logs                                     
 # or you can use the path: /var/jenkins_home/secrets/initialAdminPassword
-```
+
